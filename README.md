@@ -9,6 +9,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -53,6 +55,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://i.redd.it/d4q2r6uvv1a61.gif"  />
 
 ###
@@ -67,19 +71,17 @@
   <a href="https://www.twitch.tv/moheie" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="moheie" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mohamed.alyousfy21@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:mohamed.alyousfy21@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-elyousfy-a1a647240" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mohamed-elyousfy@hotmail.com" target="_blank">
+  <a href="mailto:mohamed-elyousfy@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="(+20) 1122387654" target="_blank">
+  <a href="https://wa.me/+201122387654" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
@@ -88,6 +90,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/moheie/moheie/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/moheie/moheie/snake.svg" alt="Snake animation" />
 
 ###
