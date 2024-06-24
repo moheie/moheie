@@ -90,6 +90,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/moheie/moheie/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://github.com/moheie/moheie/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
